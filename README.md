@@ -21,7 +21,7 @@ Being a fresher in this technical life and also in Github i had to refer some so
 1. [link4 Stack overflow](https://stackoverflow.com/)
 
 ## Contributor
-Iam Manideep Chamala and iam a I am a new member of the Fall Batch 2019 working on my Masters of Applied Computer Science at NorthWest Missouri State University,maryville.Here is one of my all time favourite  Pictures which was during my undergraduate level when i was the captain of my college Cricket team back in India.
+Iam Manideep Chamala and  I am a new member of the Fall Batch 2019 working on my Masters of Applied Computer Science at NorthWest Missouri State University,maryville.Here is one of my all time favourite  Pictures which was during my undergraduate level when i was the captain of my college Cricket team back in India.
 
 
 
