@@ -1,6 +1,6 @@
 # Aboutme
 
-## Respository Links
+## Repository Links
 * [Source Repository](https://github.com/manideepchamala/aboutme)
 * [Hosted Page](https://manideepchamala.github.io/aboutme/)
 
